@@ -1,0 +1,12 @@
+#nanban{
+    color: blueviolet;
+    text-align: left;
+}
+.box{
+    border: 2px dotted blue;
+    padding-left:  30px;
+    padding-top:10 px;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-right: 50%;
+}
